@@ -32,6 +32,5 @@ raaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah
 
 <a href="http://www.github.com/Iniw41"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Iniw41&stroke=ef4444&background=22272e&ring=facc15&fire=facc15&currStreakNum=ef4444&currStreakLabel=facc15&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
 
-<a href="http://www.github.com/Iniw41"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Iniw41&bg_color=22272e&color=ef4444&line=22c55e&point=ef4444&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Iniw41" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iniw41&langs_count=10&title_color=facc15&text_color=ef4444&icon_color=22c55e&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
